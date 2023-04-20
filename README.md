@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/3column-preview-card-component-aU_Wg15p9x)
+- [Live preview](https://piwkoo.github.io/column-preview-card/)
 
 ## My process
 
