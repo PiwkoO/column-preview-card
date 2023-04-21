@@ -83,12 +83,14 @@ body {
   margin-bottom: 25px;
   font-family: 'Big Shoulders Display', sans-serif;
   font-size: 4rem;
+  text-transform: uppercase;
   color: var(--very-light-gray);
 }
 
 .card__desc {
   flex-grow: 1;
   font-size: 1.5rem;
+  line-height: 22px;
   color: var(--transparent-white);
 }
 
@@ -97,6 +99,7 @@ body {
   border: 2px solid var(--very-light-gray);
   border-radius: 50px;
   font-size: 1.5rem;
+  text-transform: capitalize;
   background-color: var(--very-light-gray);
   color: inherit;
   transition: background-color .2s, color .2s;
